@@ -4,7 +4,15 @@
 ```
 npm install
 ```
+## Global dependencies
+```
+npm install --global json-server
+```
 
+### Fire up mock database server
+```
+npm run db
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve

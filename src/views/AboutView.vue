@@ -1,5 +1,17 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="container flex w-full h-110 bg-white mx-auto">
+    <div></div>
   </div>
 </template>
+
+<script>
+export default {
+  name: "AboutView",
+
+  data: () => {
+    return {
+      apk: "pk_test_51MhTYBLT7sCBXxrGlrlbBpBDOAX2aJcLxNbhVkBvLt39nhyWsg7oU6JMh7IVQwKy6hQoo1xdncKCRWDn9Du1ij5700qOSI93fP",
+    };
+  },
+};
+</script>

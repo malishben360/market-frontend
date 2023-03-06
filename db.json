@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "access_token": "ya29.a0AVvZVsoIFnKwRSusROgSXWONkl7g5uY7em4OzpI7JFRCaSe6r_vN-oGONWanKhsUOLs1jPa15-4Mh32_TeHj-8CyV9C-dm1CpZOUwLXLLMY3yCa1XQnu5jayTC6i9Xh60Z-GDaK8RYjr3UylcQ5LnivkPmLRDFAaCgYKAaQSARMSFQGbdwaIgRQAUkG__bdGfqztMDLeXw0166",
+      "token_type": "Bearer",
+      "expires_in": 3599,
+      "scope": "email profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+      "authuser": "0",
+      "prompt": "none",
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ],
+  "categories": [
+    "breakfast",
+    "desserts",
+    "dinner",
+    "dairy",
+    "shakes",
+    "drinks"
+  ],
+  "recipes": [
+    {
+      "id": 167,
+      "name": "cauliflower",
+      "price": 4500,
+      "category": "dinner",
+      "stars": 4,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+    },
+    {
+      "id": 342,
+      "name": "banana",
+      "price": 3000,
+      "category": "dessert",
+      "stars": 5,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+    },
+    {
+      "id": 352,
+      "name": "coconut",
+      "price": 2400,
+      "category": "dairy",
+      "stars": 4,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+    },
+    {
+      "id": 252,
+      "name": "broccoli",
+      "price": 2400,
+      "category": "drinks",
+      "stars": 3,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+    },
+    {
+      "id": 454,
+      "name": "lemon",
+      "price": 1900,
+      "category": "shakes",
+      "stars": 2,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+    },
+    {
+      "id": 853,
+      "name": "coconut",
+      "price": 2900,
+      "category": "dairy",
+      "stars": 2,
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+    }
+  ],
+  "histories": [
+    {
+      "id": 1,
+      "user_id": 4,
+      "date": "2022-01-01",
+      "items": [
+        {
+          "id": 252,
+          "name": "broccoli",
+          "price": 2400,
+          "category": "Main Dish",
+          "stars": 3,
+          "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+        },
+        {
+          "id": 454,
+          "name": "lemon",
+          "price": 1900,
+          "category": "Main Dish",
+          "stars": 2,
+          "description": "Pellentesque habitant morbi tristique senectus et netus et malesuadafames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies"
+        }
+      ],
+      "total": 4300
+    }
+  ]
+}
